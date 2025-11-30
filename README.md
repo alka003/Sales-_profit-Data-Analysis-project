@@ -38,7 +38,9 @@ It includes steps such as data loading, cleaning, pivot table creation, and desi
 3. Go to the **Dashboard** sheet.  
 4. Use slicers and charts to interact with the data.
 
----
-
-✨ *Feel free to fork, star ⭐, or use this project for practice!*  
+## 📬 Contact
+**Author:** Alka K S  
+**Role:** Data Analyst Intern  
+**Email:** [alkaks3995@gmail.com](mailto:alkaks3995@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/alka-k-s](https://www.linkedin.com/in/alka-k-s)
 
